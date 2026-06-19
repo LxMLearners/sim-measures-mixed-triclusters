@@ -1,6 +1,6 @@
 # Evaluation Framework for Triclustering Similarity Metrics
 
-This repository contains the official code, datasets, and reproducibility scripts for the paper: **"[Título Completo do Paper Aqui]"**.
+This repository contains the official code, datasets, and reproducibility scripts for the paper: **"[Similarity Measures for Comparing Mixed-Type Triclusters]"**.
 
 ## Overview
 This repository provides the Jupyter Notebook (`Experiments.ipynb`) demonstrating the experimental sanity checks and computational profiling of the proposed symmetric similarity metrics for triclusters, alongside comparisons with baseline Virtual Pattern and Hyper-box approaches.
